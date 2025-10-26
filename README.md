@@ -6,5 +6,7 @@ Thành Viên Nhóm:
         _Biểu đồ BFD (3 mức)
         _Biểu đồ DFD mức 0
         _File Word: Luồng dữ liệu chính của hệ thống
-3. Vương Huy Hoàng
+3. Vương Huy Hoàng: 
+        _Biểu đồ DFD mức 1
+        _Biểu đồ DFD mức 2 chức năng 4,5,6
 4. Lê Hoàng Đăng Gia
