@@ -10,3 +10,4 @@ Thành Viên Nhóm:
         _Biểu đồ DFD mức 1
         _Biểu đồ DFD mức 2 chức năng 4,5,6
 4. Lê Hoàng Đăng Gia
+        _Biểu đồ DFD mức 2 chức năng 1,2,3
